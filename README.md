@@ -3,13 +3,13 @@
 
 # Requirements
 
-rcore_gangs
-Stevo_libs
+rcore_gangs,
+Stevo_libs,
 qb-core
 
 # Features
 
-Customized Zones with blip & marker
-XP menu, individual for each gang
-All gang members synced to XP menu
+Customized Zones with blip & marker,
+XP menu (individual for each gang),
+All gang members synced to XP menu,
 XP gain only in Gang Zones (could be changed)
