@@ -3,9 +3,11 @@
 
 # Requirements
 
-rcore_gangs,
 Stevo_libs,
 qb-core
+
+# Optional
+rcore_gangs (for progression)
 
 # Features
 
